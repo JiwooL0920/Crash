@@ -1,13 +1,10 @@
 # Overview
 **Name:** Jiwoo Lee  
-**MacID:** leej229
-
 **Last Update:** April 26, 2019  
-**Status:** Finished Project03
 
 # Descriptions: 
 ## **Crash!**
-This project is a simple web game developed using **Elm** for the client side and **Django** for the server side. For more description about this project, please visit [here](https://mac1xa3.ca/Projects/Project03.pdf). 
+This project is a simple web game developed using **Elm** for the client side and **Django** for the server side. 
 
 The main objective of this game is your **reaction time**--how quickly you can think on the spot. The game involves two square-shaped characters on each side of the screen (left and right), moving towards each other at constant speed. Once two seconds have elapsed and the characters move out of the screen, they will be reset to their original starting postitions, which are the two edges of the screen. The size of the characters is randomized so that for every turn, one character is bigger than the other (there are only two predefined sizes: big and small). The objective is to **jump the big character over the small character** before they crash into one another (Hence the name: **Crash!**). The game is made so that it is impossible for the small character to jump over the big character; it must be the big character jumping over the small one.  
 
